@@ -1,0 +1,6 @@
+This is a convex hull implementation.
+
+See the "in" file for a sample input (you can pipe this in). It's
+essentially a pair of (x, y) coords.
+
+It outputs the (x, y) coords in the hull.
